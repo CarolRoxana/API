@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "uso de apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolRoxana/API.git"
+  },
+  "author": "caolina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarolRoxana/API/issues"
+  },
+  "homepage": "https://github.com/CarolRoxana/API#readme"
+}
